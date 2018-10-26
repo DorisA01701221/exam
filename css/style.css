@@ -1,0 +1,17 @@
+body{
+  background-image: url("https://dzbc.org/wp-content/uploads/data/2018/2/20/gradient-background-tumblr-x-meizu-PIC-MCH06308.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+  margin-left:8%;
+  margin-right:8%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+#cajitajquery{
+  width:200px;
+  height: 100px;
+  background: blue;
+  cursor: pointer;
+}
